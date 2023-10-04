@@ -22,11 +22,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable IIS with CGI and Common HTTP Features
+- Enable IIS Management Console
+- Download and Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+- Download and Install Rewrite Module (rewrite_amd64_en-US.msi)
+- Create the directory C:\PHP
+- Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+- Download and install VC_redist.x86.exe.
+- Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+- Open IIS as an Admin
+- Register PHP from within IIS
+- Reload IIS (Open IIS, Stop and Start the server)
+- Download and Install osTicket v1.15.8
+- Reload IIS (Open IIS, Stop and Start the server) and launch osTicket
+- Enable extensions (php_imap.dll, php_intl.dll, opcache.dll)
+- Rename: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Assign Permissions: ost-config.php
+- Setup osTicket ( Name helpdesk, assign default email)
+- Download and install and configure HeidiSQL
+- Continue setting up osTicket in browser with HeidiSQL configuration credentials
+- Installation complete. Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+  
 
 <h2>Installation Steps</h2>
 
