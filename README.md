@@ -95,6 +95,14 @@ Download PHP 7.3.8 and unzip the contents into C:\PHP
 <br />
 
 <p>
+<img src="https://i.imgur.com/vBX3hrg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download VC redist.x86.exe. Run the installation file and click next through the installation process to install successfully.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
