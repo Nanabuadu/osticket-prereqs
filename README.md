@@ -63,6 +63,14 @@ Expand Internet Information Services -> Expand Web Management Tools -> Check the
 <br />
 
 <p>
+<img src="https://i.imgur.com/EMdThcy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download (PHPManagerForIIS_V1.5.0msi). Run the setup and click next through the installation process to install successfully.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
