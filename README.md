@@ -66,7 +66,15 @@ Expand Internet Information Services -> Expand Web Management Tools -> Check the
 <img src="https://i.imgur.com/EMdThcy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download (PHPManagerForIIS_V1.5.0msi). Run the setup and click next through the installation process to install successfully.
+Download PHP Manager For IIS (PHPManagerForIIS_V1.5.0.msi). Run the setup and click next through the installation process to install successfully.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Xfvu8qo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download Rewrite Module (rewrite_amd64_en-US.msi). Run the setup, agree to the license and click next through the installation process to install successfully.
 </p>
 <br />
 
