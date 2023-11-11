@@ -48,8 +48,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/D95I77M height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/QUegyTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 Open Control Panel -> programs -> turn Windows Features on or off. Go through the list, locate Internet Information Services and check the box and expand. Expand world wide web services -> Application Development Features -> check the CGI box. Collapse Application Development Features and Expand Common HTTP Features. Make sure all the boxes within it are checked. Go ahead and click on okay and wait for IIS to install successfully.
 </p>
