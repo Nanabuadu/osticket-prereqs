@@ -87,7 +87,7 @@ Next, open File Explorer and create a PHP directory in drive C. Simply create a 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G8EJUxu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download PHP 7.3.8 and unzip the contents into C:\PHP
