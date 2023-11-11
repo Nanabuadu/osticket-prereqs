@@ -79,6 +79,22 @@ Download Rewrite Module (rewrite_amd64_en-US.msi). Run the setup, agree to the l
 <br />
 
 <p>
+<img src="https://i.imgur.com/L5y823a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, open File Explorer and create a PHP directory in drive C. Simply create a new folder in drive C and rename it as PHP.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download PHP 7.3.8 and unzip the contents into C:\PHP
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
