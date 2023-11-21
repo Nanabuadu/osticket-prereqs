@@ -210,12 +210,12 @@ Create a database called "osTicket".
 <img src="https://i.imgur.com/ohcG66c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-continue to setup osTicket in the browser. in the database section use these credentials MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1. Click “Install Now!”
+continue to setup osTicket in the browser. In the database section use these credentials MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1. Click “Install Now!”
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/TLz5u7d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1javyws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Installation complete. Browse to your help desk login page: http://localhost/osTicket/scp/login.php
