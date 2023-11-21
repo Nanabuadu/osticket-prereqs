@@ -138,7 +138,23 @@ Open IIS as an Administrator
 <img src="https://i.imgur.com/k4BNVnj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Register PHP from within IIS. Open IIS and locate PHP Manager in the window. Click on it to open and click on 'Register new PHP version'
+Register PHP from within IIS. Open IIS and locate PHP Manager in the window. Click on it to open and click on 'Register new PHP version'. Reload IIS, Stop and start the server.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wDHFW72.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download osTicket v1.15.8. Open the folder and copy "upload" folder to C:\inetpub\wwwroot. Within C:\inetpub\wwwroot , rename "upload" to "osTicket"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DHfJIx6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open IIS, start and stop the server. Go to sites->Default->osTicket->click on "Browse*:80" 
 </p>
 <br />
 
