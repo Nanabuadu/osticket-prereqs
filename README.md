@@ -119,6 +119,30 @@ In the configuration window, select standard configuration, click next, and chec
 <br />
 
 <p>
+<img src="https://i.imgur.com/bDoXCND.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a new root password and continue to finish the configuration.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/A2tMBpL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open IIS as an Administrator
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/k4BNVnj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Register PHP from within IIS. Open IIS and locate PHP Manager in the window. Click on it to open and click on 'Register new PHP version'
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
