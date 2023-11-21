@@ -191,9 +191,33 @@ Setup osTicket in the browser. Name the Helpdesk and provide all the required in
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gv4UC2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Download and install HeidiSQL. Open HeidiSQL and create a new session with username: root and password: Password1. Connect to the session.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TLz5u7d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a database called "osTicket".
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ohcG66c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+continue to setup osTicket in the browser. in the database section use these credentials MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1. Click “Install Now!”
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TLz5u7d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installation complete. Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <br />
