@@ -39,8 +39,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Rename: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php
 - Assign Permissions: ost-config.php
 - Setup osTicket ( Name helpdesk, assign default email)
-- Download and install and configure HeidiSQL
-- Continue setting up osTicket in browser with HeidiSQL configuration credentials
+- Download, install and configure HeidiSQL
+- Continue setting up osTicket in the browser with HeidiSQL configuration credentials
 - Installation complete. Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
   
@@ -106,7 +106,31 @@ Download VC redist.x86.exe. Run the installation file and click next through the
 <img src="https://i.imgur.com/D8cdI6D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download MySQL 5.5.62 and install. Choose a typical setup and run the installation. Launch the Configuration wizard after installation is successful.
+Download MySQL 5.5.62 (mysql-5.5.62-win32.msi) and install. Choose a typical setup and run the installation. Launch the Configuration wizard after installation is successful.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UnwpAfD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the configuration window, select standard configuration, click next, and check the 'install as Windows service' box.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
