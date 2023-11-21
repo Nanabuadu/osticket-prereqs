@@ -159,18 +159,34 @@ Open IIS, start and stop the server. Go to sites->Default->osTicket->click on "B
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Krdxtvo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll" extensions. GO back to IIS, sites->Default->osTicket->Double click on PHP Manager. Find the extension and click on enable 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ijDf6Ri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Rename: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bugxOHJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assign Permissions: locate ost-config.php (C:\inetpub\wwwroot\osTicket\include\ost-config.php). Right-click and click on properties->security->Advanced. click on disable all inheritance->remove all. Assign new permissions by clicking on New permission->Everyone->All
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/l4r3f3H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Setup osTicket in the browser. Name the Helpdesk and provide all the required information
 </p>
 <br />
 
